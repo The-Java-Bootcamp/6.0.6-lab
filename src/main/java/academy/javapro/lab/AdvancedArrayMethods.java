@@ -5,7 +5,7 @@ import java.util.List;
 
 public class AdvancedArrayMethods {
     public static void main(String[] args) {
-        // TODO: Create an array of integers
+        int[] originalArray = {5, 2, 8, 1, 9, 3, 7, 4, 6, 10, 5, 2, 8, 1, 9, 3, 7, 4, 6, 10};
 
         // TODO: Implement the required operations
 
